@@ -12,6 +12,7 @@ HTML – язык разметки страниц
 CSS – стили компонентов
 JavaScript
 
+
 ![image](https://github.com/user-attachments/assets/a32d0ea0-3d82-49f2-8b44-edcbb8d0b833)
 ![image](https://github.com/user-attachments/assets/637f0d78-4812-4c3a-b6b7-c0986e9f6be8)
 ![image](https://github.com/user-attachments/assets/bf5dacc5-a07e-46b2-bf87-1713975c4ad8)
